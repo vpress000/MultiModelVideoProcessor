@@ -37,7 +37,7 @@ redis==5.0.1
 # Phase 2: Vector Embeddings & RAG
 sentence-transformers==2.2.2
 transformers==4.36.2
-torch==2.1.1
+torch==2.13.0
 torchvision==0.16.1
 lancedb==0.3.4
 chromadb==0.4.15
